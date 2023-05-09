@@ -1,7 +1,9 @@
-# Getting Started with Create React App
+# Getting Started 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+```git clone https://github.com/TomTom2k/website-selling-phone.git```
+```cd website-selling-phone```
+```npm install```
+```npm start```
 ## Available Scripts
 
 In the project directory, you can run:
