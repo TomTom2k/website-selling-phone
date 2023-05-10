@@ -13,7 +13,7 @@
 S-phone is an e-commerce website used to support customers in searching, referencing and purchasing products online. The website is built using the React.js framework, combined with Antd as a UI library. Data is obtained by calling APIs from the BackEnd, which is written in Spring Boot.
 
 # Describe
-### A. FrondEnd
+### A. FrontEnd
 ##### I. Home Page
 <center>
   <img width="540" alt="image" src="https://github.com/TomTom2k/website-selling-phone/assets/88455780/6b7660f6-e67b-4d2b-832a-60515dbf03bd">
